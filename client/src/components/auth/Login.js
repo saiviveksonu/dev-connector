@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import {connect} from 'react-redux';
 import PropTypes from 'prop-types';
-import axios from "axios"
+// import axios from "axios"
 import { Link, Redirect } from 'react-router-dom'
 import { login } from '../../actions/auth';
 const Login = ({login,isAuthenticated}) => {

@@ -1,5 +1,5 @@
 import axios from 'axios';
-import { config } from 'process';
+// import { config } from 'process';
 import { setAlert } from './alert';
 import {
     GET_POSTS,
