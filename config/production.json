@@ -1,0 +1,6 @@
+{
+    "DATABASE":"mongodb+srv://saivivek:Sonu@123@cluster0.ifz91.mongodb.net/mernstackapp2?retryWrites=true&w=majority",
+    "jwtSecret":"mynameisbanothsaivivekgraduatedfromnitpuducherrywithgoodacademicrecord",
+    "githubclientid":"fbb3db98cd91d7bae7dc",
+    "githubsecretkey":"4407429d57db0aad961eba27b66a8b5191d4cdc7"
+}
